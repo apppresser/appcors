@@ -1,5 +1,5 @@
 # appcors
-Allow access to your site's resources from your AppPresser app.
 
-# Install
-Copy this file to your /wp-content/plugins folder and activate the plugin from your WP-Admin.
+This plugin is deprecated, the AppPresser core plugin now has a setting to enable CORS. 
+
+To enable CORS for AppPresser, visit your WordPress admin, go to the AppPresser settings page, and check "Enable CORS."
